@@ -27,10 +27,11 @@
         <ul>
           <li>Video: <a href="https://youtu.be/gWHLBOhPRS0">Lecture 1</a></li>
           <li>Slide: <a href="">Slide 1</a></li>
-        </ul>
-        <p>
+          <li>
+<details>
+<summary>สรุป</summary>
+วิดีโอนี้เป็นการเกริ่นนำและแนะนำรายวิชา (Introduction Lecture) ของวิชา CS222 Operating Systems โดยอาจารย์กสีดิษ ชาญเชี่ยว ซึ่งสรุปใจความสำคัญได้ดังนี้ครับ:
         <ol>
-        วิดีโอนี้เป็นการเกริ่นนำและแนะนำรายวิชา (Introduction Lecture) ของวิชา CS222 Operating Systems โดยอาจารย์กสีดิษ ชาญเชี่ยว ซึ่งสรุปใจความสำคัญได้ดังนี้ครับ:
 <li>
 การแนะนำรายวิชาและข้อตกลง [00:16]: อธิบายภาพรวมสิ่งที่จะต้องเรียน กิจกรรมในห้องเรียน ตารางเวลาเรียน (พุธ, ศุกร์) และการสลับไปเรียนรูปแบบออนไลน์ในช่วงสัปดาห์ที่มีงานรับปริญญา
 <li>
@@ -38,6 +39,8 @@
 <li>
 กรณีศึกษาหน้าที่ของ OS [01:03:49]: ยกตัวอย่างเบื้องหลังความสำเร็จของ Microsoft ในการจัดการหน่วยความจำ (Memory Management) เพื่อเพิ่มประสิทธิภาพการทำงานของระบบและโปรแกรม ซึ่งถือเป็นหน้าที่หลักประการหนึ่งของระบบปฏิบัติการ
         </ol>
+</details>
+        </ul>
       </td>
       <td>OSC10: บทที่ 1</td>
     </tr>
@@ -47,7 +50,17 @@
         <ul>
           <li>Video: <a href="https://youtu.be/nSAnVHrKCsg">Lecture 2</a></li>
           <li>Slide: <a href="">Slide </a></li>
+          <li>
+<details>
+<summary>สรุป</summary>
+text
+</details></li>
           <li>Video: <a href="https://youtu.be/9BSzJY6dZO8">Additional: Number and Information</a></li>
+          <li>
+<details>
+<summary>สรุป</summary>
+text
+</details></li>
         </ul>
       </td>
       <td>OSC10: </td>
@@ -58,6 +71,11 @@
         <ul>
           <li>Video: <a href="https://youtu.be/4rOKCWfD5eA">Lecture 3</a></li>
           <li>Slide: <a href="">Slide </a></li>
+          <li>
+<details>
+<summary>สรุป</summary>
+text
+</details></li>
         </ul>
       </td>
       <td>OSC10: </td>
@@ -68,6 +86,11 @@
         <ul>
           <li>Video: <a href="https://youtu.be/6p3zMUV2ULg">Lecture 4</a></li>
           <li>Slide: <a href="">Slide </a></li>
+          <li>
+<details>
+<summary>สรุป</summary>
+text
+</details></li>
         </ul>
       </td>
       <td>OSC10: </td>
@@ -78,6 +101,11 @@
         <ul>
           <li>Video: <a href="https://youtu.be/7mwmE_W1O8I">Lecture 5</a></li>
           <li>Slide: <a href="">Slide </a></li>
+          <li>
+<details>
+<summary>สรุป</summary>
+text
+</details></li>
         </ul>
       </td>
       <td>OSC10: </td>
@@ -88,6 +116,11 @@
         <ul>
           <li>Video: <a href="https://youtu.be/W8glao6cvmo">Lecture 6</a></li>
           <li>Slide: <a href="">Slide </a></li>
+          <li>
+<details>
+<summary>สรุป</summary>
+text
+</details></li>
         </ul>
       </td>
       <td>OSC10: </td>
@@ -98,6 +131,11 @@
         <ul>
           <li>Video: <a href="https://youtu.be/pOB8EDmS6Kk">Lecture 7</a></li>
           <li>Slide: <a href="">Slide </a></li>
+          <li>
+<details>
+<summary>สรุป</summary>
+text
+</details></li>
         </ul>
       </td>
       <td>OSC10: </td>
@@ -108,12 +146,32 @@
         <ul>
           <li>Video: <a href="https://youtu.be/dN9aq9PG9Cs">Lecture 7.5</a></li>
           <li>Slide: <a href="">Slide </a></li>
+          <li>
+<details>
+<summary>สรุป</summary>
+text
+</details></li>
         </ul>
         <p><b>Linux Tutorial:</b>
         <ul>
           <li>Video: <a href="https://youtu.be/l7Rbavlj1SQ">Linux Tutorial 1</a></li>
+          <li>
+<details>
+<summary>สรุป</summary>
+text
+</details></li>
           <li>Video: <a href="https://youtu.be/5dZ6Yz3MKbk">Linux Tutorial 2</a></li>
+          <li>
+<details>
+<summary>สรุป</summary>
+text
+</details></li>
           <li>Video: <a href="https://youtu.be/K3ijvB9a1Eo">Linux Tutorial 3</a></li>
+          <li>
+<details>
+<summary>สรุป</summary>
+text
+</details></li>
         </ul>
       </td>
       <td>OSC10: </td>
@@ -124,6 +182,11 @@
         <ul>
           <li>Video: <a href="https://youtu.be/43hzG7P1QOk">Lecture 8</a></li>
           <li>Slide: <a href="">Slide </a></li>
+          <li>
+<details>
+<summary>สรุป</summary>
+text
+</details></li>
         </ul>
       </td>
       <td>OSC10: </td>
@@ -134,6 +197,11 @@
         <ul>
           <li>Video: <a href="https://youtu.be/3hQvEFk0Gt8">Lecture 9</a></li>
           <li>Slide: <a href="">Slide </a></li>
+          <li>
+<details>
+<summary>สรุป</summary>
+text
+</details></li>
         </ul>
       </td>
       <td>OSC10: </td>
@@ -144,6 +212,11 @@
         <ul>
           <li>Video: <a href="https://youtu.be/f6Stb7c4TWU">Lecture 10</a></li>
           <li>Slide: <a href="">Slide </a></li>
+          <li>
+<details>
+<summary>สรุป</summary>
+text
+</details></li>
         </ul>
       </td>
       <td>OSC10: </td>
@@ -154,6 +227,11 @@
         <ul>
           <li>Video: <a href="https://youtu.be/Z6nw9c7f5Ic">Lecture 11</a></li>
           <li>Slide: <a href="">Slide </a></li>
+          <li>
+<details>
+<summary>สรุป</summary>
+text
+</details></li>
         </ul>
       </td>
       <td>OSC10: </td>
@@ -164,6 +242,11 @@
         <ul>
           <li>Video: <a href="https://youtu.be/ZCfq0YP8CJg">Lecture 12</a></li>
           <li>Slide: <a href="">Slide </a></li>
+          <li>
+<details>
+<summary>สรุป</summary>
+text
+</details></li>
         </ul>
       </td>
       <td>OSC10: </td>
@@ -174,6 +257,11 @@
         <ul>
           <li>Video: <a href="https://youtu.be/5upbF_YXKlI">Lecture 13</a></li>
           <li>Slide: <a href="">Slide </a></li>
+          <li>
+<details>
+<summary>สรุป</summary>
+text
+</details></li>
         </ul>
       </td>
       <td>OSC10: </td>
@@ -184,6 +272,11 @@
         <ul>
           <li>Video: <a href="https://youtu.be/VkBZfT7Jv20">Lecture 14</a></li>
           <li>Slide: <a href="">Slide </a></li>
+          <li>
+<details>
+<summary>สรุป</summary>
+text
+</details></li>
         </ul>
       </td>
       <td>OSC10: </td>
@@ -194,6 +287,11 @@
         <ul>
           <li>Video: <a href="https://youtu.be/iB_FqYcChPE">Lecture 15</a></li>
           <li>Slide: <a href="">Slide </a></li>
+          <li>
+<details>
+<summary>สรุป</summary>
+text
+</details></li>
         </ul>
       </td>
       <td>OSC10: </td>
@@ -204,6 +302,11 @@
         <ul>
           <li>Video: <a href="https://youtu.be/h4HysTgfx0w">Lecture 16</a></li>
           <li>Slide: <a href="">Slide </a></li>
+          <li>
+<details>
+<summary>สรุป</summary>
+text
+</details></li>
         </ul>
       </td>
       <td>OSC10: </td>
@@ -214,6 +317,11 @@
         <ul>
           <li>Video: <a href="https://youtu.be/t2ZuvUxcjWE">Lecture 16.5</a></li>
           <li>Slide: <a href="">Slide </a></li>
+          <li>
+<details>
+<summary>สรุป</summary>
+text
+</details></li>
         </ul>
       </td>
       <td>OSC10: </td>
@@ -224,6 +332,11 @@
         <ul>
           <li>Video: <a href="https://youtu.be/w1TyiPafU2w">Lecture 17</a></li>
           <li>Slide: <a href="">Slide </a></li>
+          <li>
+<details>
+<summary>สรุป</summary>
+text
+</details></li>
         </ul>
       </td>
       <td>OSC10: </td>
@@ -234,6 +347,11 @@
         <ul>
           <li>Video: <a href="https://youtu.be/MXjGAmLGiVo">Lecture 18</a></li>
           <li>Slide: <a href="">Slide </a></li>
+          <li>
+<details>
+<summary>สรุป</summary>
+text
+</details></li>
         </ul>
       </td>
       <td>OSC10: </td>
@@ -244,6 +362,11 @@
         <ul>
           <li>Video: <a href="https://youtu.be/KOvJGrTyBbw">Lecture 19</a></li>
           <li>Slide: <a href="">Slide </a></li>
+          <li>
+<details>
+<summary>สรุป</summary>
+text
+</details></li>
         </ul>
       </td>
       <td>OSC10: </td>
@@ -254,6 +377,11 @@
         <ul>
           <li>Video: <a href="https://youtu.be/O6w9CMbrdG8">Lecture 20</a></li>
           <li>Slide: <a href="">Slide </a></li>
+          <li>
+<details>
+<summary>สรุป</summary>
+text
+</details></li>
         </ul>
       </td>
       <td>OSC10: </td>
@@ -264,6 +392,11 @@
         <ul>
           <li>Video: <a href="https://youtu.be/9i5cLPTNZAI">Lecture 21</a></li>
           <li>Slide: <a href="">Slide </a></li>
+          <li>
+<details>
+<summary>สรุป</summary>
+text
+</details></li>
         </ul>
       </td>
       <td>OSC10: </td>
@@ -274,6 +407,11 @@
         <ul>
           <li>Video: <a href="https://youtu.be/fYXKSLTlVaI">Lecture 22</a></li>
           <li>Slide: <a href="">Slide </a></li>
+          <li>
+<details>
+<summary>สรุป</summary>
+text
+</details></li>
         </ul>
       </td>
       <td>OSC10: </td>
@@ -284,6 +422,11 @@
         <ul>
           <li>Video: <a href="https://youtu.be/e234Enmu2fg">Lecture 23</a></li>
           <li>Slide: <a href="">Slide </a></li>
+          <li>
+<details>
+<summary>สรุป</summary>
+text
+</details></li>
         </ul>
       </td>
       <td>OSC10: </td>
@@ -294,11 +437,15 @@
         <ul>
           <li>Video: <a href="https://youtu.be/OPsTUdKcgJ4">Lecture 24</a></li>
           <li>Slide: <a href="">Slide </a></li>
+          <li>
+<details>
+<summary>สรุป</summary>
+text
+</details></li>
         </ul>
       </td>
       <td>OSC10: </td>
     </tr>
   </tbody>
 </table>
-
 </p>
