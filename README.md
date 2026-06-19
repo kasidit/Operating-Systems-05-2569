@@ -40,7 +40,7 @@
 </details>
         </ul>
       </td>
-      <td>OSC10: บทที่ 1</td>
+      <td>OSC10: </td>
     </tr>
     <tr>
       <td>2</td>
@@ -117,7 +117,7 @@
       <td>OSC10: </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>5</td>
       <td>Lecture 5: 
         <ul>
           <li>Video: <a href="https://youtu.be/7mwmE_W1O8I">Lecture 5</a></li>
@@ -137,7 +137,7 @@
       <td>OSC10: </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>6</td>
       <td>Lecture 6: 
         <ul>
           <li>Video: <a href="https://youtu.be/W8glao6cvmo">Lecture 6</a></li>
@@ -157,7 +157,7 @@
       <td>OSC10: </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>7</td>
       <td>Lecture 7: 
         <ul>
           <li>Video: <a href="https://youtu.be/pOB8EDmS6Kk">Lecture 7</a></li>
@@ -179,7 +179,7 @@
       <td>OSC10: </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>7.5</td>
       <td>Lecture 7.5: 
         <ul>
           <li>Video: <a href="https://youtu.be/dN9aq9PG9Cs">Lecture 7.5</a></li>
@@ -241,7 +241,7 @@
       <td>OSC10: </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>8</td>
       <td>Lecture 8: 
         <ul>
           <li>Video: <a href="https://youtu.be/43hzG7P1QOk">Lecture 8</a></li>
@@ -263,7 +263,7 @@
       <td>OSC10: </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>9</td>
       <td>Lecture 9: 
         <ul>
           <li>Video: <a href="https://youtu.be/3hQvEFk0Gt8">Lecture 9</a></li>
@@ -283,7 +283,7 @@
       <td>OSC10: </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>10</td>
       <td>Lecture 10: 
         <ul>
           <li>Video: <a href="https://youtu.be/f6Stb7c4TWU">Lecture 10</a></li>
@@ -303,7 +303,7 @@
       <td>OSC10: </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>11</td>
       <td>Lecture 11: 
         <ul>
           <li>Video: <a href="https://youtu.be/Z6nw9c7f5Ic">Lecture 11</a></li>
@@ -325,7 +325,7 @@
       <td>OSC10: </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>12</td>
       <td>Lecture 12: 
         <ul>
           <li>Video: <a href="https://youtu.be/ZCfq0YP8CJg">Lecture 12</a></li>
@@ -345,7 +345,7 @@
       <td>OSC10: </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>13</td>
       <td>Lecture 13: 
         <ul>
           <li>Video: <a href="https://youtu.be/5upbF_YXKlI">Lecture 13</a></li>
@@ -365,7 +365,7 @@
       <td>OSC10: </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>14</td>
       <td>Lecture 14: 
         <ul>
           <li>Video: <a href="https://youtu.be/VkBZfT7Jv20">Lecture 14</a></li>
@@ -387,7 +387,7 @@
       <td>OSC10: </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>15</td>
       <td>Lecture 15: 
         <ul>
           <li>Video: <a href="https://youtu.be/iB_FqYcChPE">Lecture 15</a></li>
@@ -407,7 +407,7 @@
       <td>OSC10: </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>16</td>
       <td>Lecture 16: 
         <ul>
           <li>Video: <a href="https://youtu.be/h4HysTgfx0w">Lecture 16</a></li>
@@ -427,7 +427,7 @@
       <td>OSC10: </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>16.5</td>
       <td>Lecture 16.5: 
         <ul>
           <li>Video: <a href="https://youtu.be/t2ZuvUxcjWE">Lecture 16.5</a></li>
@@ -444,10 +444,10 @@
 </details></li>
         </ul>
       </td>
-      <td>OSC10: </td>
+      <td>OSC10:, OSTEP </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>17</td>
       <td>Lecture 17: 
         <ul>
           <li>Video: <a href="https://youtu.be/w1TyiPafU2w">Lecture 17</a></li>
@@ -466,10 +466,10 @@
 </details></li>
         </ul>
       </td>
-      <td>OSC10: </td>
+      <td>OSC10:, OSTEP </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>18</td>
       <td>Lecture 18: 
         <ul>
           <li>Video: <a href="https://youtu.be/MXjGAmLGiVo">Lecture 18</a></li>
@@ -491,7 +491,7 @@
       <td>OSC10: </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>19</td>
       <td>Lecture 19: 
         <ul>
           <li>Video: <a href="https://youtu.be/KOvJGrTyBbw">Lecture 19</a></li>
@@ -511,7 +511,7 @@
       <td>OSC10: </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>20</td>
       <td>Lecture 20: 
         <ul>
           <li>Video: <a href="https://youtu.be/O6w9CMbrdG8">Lecture 20</a></li>
@@ -533,7 +533,7 @@
       <td>OSC10: </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>21</td>
       <td>Lecture 21: 
         <ul>
           <li>Video: <a href="https://youtu.be/9i5cLPTNZAI">Lecture 21</a></li>
@@ -553,7 +553,7 @@
       <td>OSC10: </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>22</td>
       <td>Lecture 22: 
         <ul>
           <li>Video: <a href="https://youtu.be/fYXKSLTlVaI">Lecture 22</a></li>
@@ -575,7 +575,7 @@
       <td>OSC10: </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>23</td>
       <td>Lecture 23: 
         <ul>
           <li>Video: <a href="https://youtu.be/e234Enmu2fg">Lecture 23</a></li>
@@ -596,7 +596,7 @@ text
       <td>OSC10: </td>
     </tr>
     <tr>
-      <td>4</td>
+      <td>24</td>
       <td>Lecture 24: 
         <ul>
           <li>Video: <a href="https://youtu.be/OPsTUdKcgJ4">Lecture 24</a></li>
@@ -613,7 +613,7 @@ Dynamic Memory Allocation (Heap & Library API) [02:15]: บรรยายกล
 </details></li>
         </ul>
       </td>
-      <td>OSC10: </td>
+      <td>OSC10:, OSTEP </td>
     </tr>
   </tbody>
 </table>
