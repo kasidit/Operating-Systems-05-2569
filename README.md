@@ -8,6 +8,7 @@
     <li><b>OSC10:</b> <a href="https://archive.org/details/silberschatz-operating-system-concepts-10e-2018">Operating System Concepts, 10th Edition</a>โดย 1)	Avi Silberschatz, Peter B. Galvin and Greg Gagne สามารถดาวน์โหลดได้ฟรีจาก The Internet Archive.
 </li>
     <li><b>OSTEP:</b><a href="https://pages.cs.wisc.edu/~remzi/OSTEP/">Operating Systems: Three easy pieces (OSTEP)</a> เป็นหนังสือ Free Text book ที่เขียนขึ้นโดย Prof. Ramzi H. Arpaci-Dusseau และ Prof. Andrea C. Arpaci-Dusseau จาก University of Wisconsin Madison</li>
+    <li><b>APUE:</b><a href="https://www.amazon.com/dp/0321637739?lv=shuf&channelId=500&plpRedirect=mhFallback">Advanced Programming in the UNIX Environment, 3rd Edition</a> โดย  W. Stevens, Stephen Ragoหาซื้อ Kindle Edition ได้ที่ Amazon 
   </ol>
 </p>
 <p>
@@ -23,14 +24,13 @@
   <tbody>
     <tr>
       <td>1</td>
-      <td>Lecture 1: แนะนำ OS
+      <td>Lecture 1: แนะนำ บบปฏิบัติการ    ความสำคัญของระบบปฏิบัติการ 
         <ul>
           <li>Video: <a href="https://youtu.be/gWHLBOhPRS0">Lecture 1</a></li>
-          <li>Slide: <a href="">Slide 1</a></li>
+          <li>Slide: <a href="Slides/CS222-2026-Slide-01.pdf">Slide 1</a></li>
           <li>
 <details>
 <summary>สรุป</summary>
-วิดีโอนี้เป็นการเกริ่นนำและแนะนำรายวิชา (Introduction Lecture) ของวิชา CS222 Operating Systems โดยอาจารย์กสีดิษ ชาญเชี่ยว ซึ่งสรุปใจความสำคัญได้ดังนี้ครับ:
         <ol>
 <li>
 ความสำคัญของระบบปฏิบัติการ (OS) [04:00]: ยกตัวอย่างระบบปฏิบัติการรอบตัว เช่น Windows, iOS, Android รวมถึงความสำคัญของ Linux ที่แฝงอยู่ในชีวิตประจำวันและการทำงาน
@@ -44,10 +44,10 @@
     </tr>
     <tr>
       <td>2</td>
-      <td>Lecture 2: 
+      <td>Lecture 2: บทบาทและหน้าที่ของ OS ส่วนประกอบของระบบคอมพิวเตอร์
         <ul>
           <li>Video: <a href="https://youtu.be/nSAnVHrKCsg">Lecture 2</a></li>
-          <li>Slide: <a href="">Slide </a></li>
+          <li>Slide: <a href="Slides/CS222-2026-Slide-02.pdf">Slide 2</a></li>
           <li>
 <details>
 <summary>สรุป</summary>
@@ -75,15 +75,14 @@
     </tr>
     <tr>
       <td>3</td>
-      <td>Lecture 3: 
+      <td>Lecture 3: สถาปัตยกรรมคอมพิวเตอร์และระบบบัส กลไกการควบคุมของระบบปฏิบัติการ 
         <ul>
           <li>Video: <a href="https://youtu.be/4rOKCWfD5eA">Lecture 3</a></li>
-          <li>Slide: <a href="">Slide </a></li>
+          <li>Slide: <a href="Slides/CS222-2026-Slide-02.pdf">Slide 2 </a></li>
           <li>
 <details>
 <summary>สรุป</summary>
 <ol>
-<li>การใช้งานสภาพแวดล้อม Linux [02:05]: แนะนำให้นักศึกษาเตรียมติดตั้งและใช้งาน Linux บนเครื่องคอมพิวเตอร์ของตนเอง [03:39] เช่น การใช้ WSL (Windows Subsystem for Linux) เพื่อทำแบบฝึกหัดเกี่ยวกับคำสั่งพื้นฐาน (Command Line) [05:04]
 <li>
 สถาปัตยกรรมคอมพิวเตอร์และระบบบัส [06:48]: ทบทวนความรู้เรื่องระบบบัส (Bus) ซึ่งเป็นวงจรอิเล็กทรอนิกส์ที่ทำหน้าที่ส่งสัญญาณและถ่ายโอนข้อมูลระหว่างอุปกรณ์ต่างๆ ภายในคอมพิวเตอร์
 <li>
@@ -96,10 +95,10 @@
     </tr>
     <tr>
       <td>4</td>
-      <td>Lecture 4: 
+      <td>Lecture 4: กลไกการทำงานของ Interrupt  การทำงานของอวัยวะคอมพิวเตอร์   (เปรียบเทียบ)
         <ul>
           <li>Video: <a href="https://youtu.be/6p3zMUV2ULg">Lecture 4</a></li>
-          <li>Slide: <a href="">Slide </a></li>
+          <li>Slide: <a href="Slides/CS222-2026-Slide-02.pdf">Slide 2</a></li>
           <li>
 <details>
 <summary>สรุป</summary>
@@ -118,10 +117,10 @@
     </tr>
     <tr>
       <td>5</td>
-      <td>Lecture 5: 
+      <td>Lecture 5: ทบทวนกลไกการขัดจังหวะ (Interrupt) หน่วยความจำ
         <ul>
           <li>Video: <a href="https://youtu.be/7mwmE_W1O8I">Lecture 5</a></li>
-          <li>Slide: <a href="">Slide </a></li>
+          <li>Slide: <a href="Slides/CS222-2026-Slide-03.pdf">Slide 3</a></li>
           <li>
 <details>
 <summary>สรุป</summary>
@@ -138,10 +137,10 @@
     </tr>
     <tr>
       <td>6</td>
-      <td>Lecture 6: 
+      <td>Lecture 6: โครงสร้างและลำดับชั้นของหน่วยความจำ    แนวคิดการทำงานแบบ Multiprogramming [
         <ul>
           <li>Video: <a href="https://youtu.be/W8glao6cvmo">Lecture 6</a></li>
-          <li>Slide: <a href="">Slide </a></li>
+          <li>Slide: <a href="Slides/CS222-2026-Slide-03.pdf">Slide 3</a></li>
           <li>
 <details>
 <summary>สรุป</summary>
@@ -158,10 +157,10 @@
     </tr>
     <tr>
       <td>7</td>
-      <td>Lecture 7: 
+      <td>Lecture 7: โครงสร้างของระบบปฏิบัติการ บทบาทและบริการของ OS  กลไก Linker และ Loader
         <ul>
           <li>Video: <a href="https://youtu.be/pOB8EDmS6Kk">Lecture 7</a></li>
-          <li>Slide: <a href="">Slide </a></li>
+          <li>Slide: <a href="Slides/CS222-2026-Slide-04.pdf">Slide 4</a></li>
           <li>
 <details>
 <summary>สรุป</summary>
@@ -180,10 +179,10 @@
     </tr>
     <tr>
       <td>7.5</td>
-      <td>Lecture 7.5: 
+      <td>Lecture 7.5: กลไกการทำงานของ Linker และแนวคิด Executable File  กระบวนการบูตระบบ (Booting Process) 
         <ul>
           <li>Video: <a href="https://youtu.be/dN9aq9PG9Cs">Lecture 7.5</a></li>
-          <li>Slide: <a href="">Slide </a></li>
+          <li>Slide: <a href="Slides/CS222-2026-Slide-04.pdf">Slide 4</a></li>
           <li>
 <details>
 <summary>สรุป</summary>
@@ -243,10 +242,10 @@
     </tr>
     <tr>
       <td>8</td>
-      <td>Lecture 8: 
+      <td>Lecture 8: แนวคิดและนิยามของ Process ความสัมพันธ์ระหว่าง Parent และ Child Process
         <ul>
           <li>Video: <a href="https://youtu.be/43hzG7P1QOk">Lecture 8</a></li>
-          <li>Slide: <a href="">Slide </a></li>
+          <li>Slide: <a href="Slides/CS222-2026-Slide-05.pdf">Slide 5</a></li>
           <li>
 <details>
 <summary>สรุป</summary>
@@ -261,14 +260,14 @@
 </details></li>
         </ul>
       </td>
-      <td>OSC10: </td>
+      <td>OSC10, APUE </td>
     </tr>
     <tr>
       <td>9</td>
-      <td>Lecture 9: 
+      <td>Lecture 9: โครงสร้างของ Process ในหน่วยความจำ  วงจรชีวิตและความสัมพันธ์ของ Process
         <ul>
           <li>Video: <a href="https://youtu.be/3hQvEFk0Gt8">Lecture 9</a></li>
-          <li>Slide: <a href="">Slide </a></li>
+          <li>Slide: <a href="Slides/CS222-2026-Slide-05.pdf">Slide 5</a></li>
           <li>
 <details>
 <summary>สรุป</summary>
@@ -281,14 +280,14 @@
 </details></li>
         </ul>
       </td>
-      <td>OSC10: </td>
+      <td>OSC10, APUE </td>
     </tr>
     <tr>
       <td>10</td>
-      <td>Lecture 10: 
+      <td>Lecture 10: สถานะและการทำงานของ Linux Process  กลไกการเกิด Zombie Process
         <ul>
           <li>Video: <a href="https://youtu.be/f6Stb7c4TWU">Lecture 10</a></li>
-          <li>Slide: <a href="">Slide </a></li>
+          <li>Slide: <a href="Slides/CS222-2026-Slide-06.pdf">Slide 6</a></li>
           <li>
 <details>
 <summary>สรุป</summary>
@@ -301,14 +300,14 @@
 </details></li>
         </ul>
       </td>
-      <td>OSC10: </td>
+      <td>OSC10, APUE </td>
     </tr>
     <tr>
       <td>11</td>
-      <td>Lecture 11: 
+      <td>Lecture 11: การแยกกระบวนการเพื่อความปลอดภัย (Isolation) กลไกการทำงานของ Fork และ Exec System Call  โครงสร้างการทำงานของ Shell Program 
         <ul>
           <li>Video: <a href="https://youtu.be/Z6nw9c7f5Ic">Lecture 11</a></li>
-          <li>Slide: <a href="">Slide </a></li>
+          <li>Slide: <a href="Slides/CS222-2026-Slide-06.pdf">Slide </a></li>
           <li>
 <details>
 <summary>สรุป</summary>
@@ -323,14 +322,14 @@
 </details></li>
         </ul>
       </td>
-      <td>OSC10: </td>
+      <td>OSC10, APUE </td>
     </tr>
     <tr>
       <td>12</td>
-      <td>Lecture 12: 
+      <td>Lecture 12: แนวคิดด้าน Process Scheduling
         <ul>
           <li>Video: <a href="https://youtu.be/ZCfq0YP8CJg">Lecture 12</a></li>
-          <li>Slide: <a href="">Slide </a></li>
+          <li>Slide: <a href="Slides/CS222-2026-Slide-07.pdf">Slide 7</a></li>
           <li>
 <details>
 <summary>สรุป</summary>
@@ -343,14 +342,14 @@
 </details></li>
         </ul>
       </td>
-      <td>OSC10: </td>
+      <td>OSC10 </td>
     </tr>
     <tr>
       <td>13</td>
-      <td>Lecture 13: 
+      <td>Lecture 13: Process Scheduling และการจัดการตารางเวลาบนระบบหลายประมวลผล (Multiprocessor Scheduling)
         <ul>
           <li>Video: <a href="https://youtu.be/5upbF_YXKlI">Lecture 13</a></li>
-          <li>Slide: <a href="">Slide </a></li>
+          <li>Slide: <a href="Slides/CS222-2026-Slide-07.pdf">Slide 7</a></li>
           <li>
 <details>
 <summary>สรุป</summary>
@@ -363,14 +362,34 @@
 </details></li>
         </ul>
       </td>
+      <td>OSC10 </td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>Lecture 14: วิวัฒนาการของ CPU สู่ระบบหลายตัวประมวลผล กลไกการจัดตารางเวลาของ OS บนระบบ Multiprocessor
+        <ul>
+          <li>Video: <a href="https://youtu.be/iB_FqYcChPE">Lecture 14</a></li>
+          <li>Slide: <a href="Slides/CS222-2026-Slide-07.pdf">Slide 7</a></li>
+          <li>
+<details>
+<summary>สรุป</summary>
+<ol>
+<li>
+วิวัฒนาการของ CPU สู่ระบบหลายตัวประมวลผล [01:54]: เทียบสถาปัตยกรรม CPU จากยุค 90-2000 ที่เน้นเพิ่มความเร็วคอร์เดียวตามกฎของมัวร์ (Moore's Law) [04:03] มาสู่ระบบในปัจจุบันที่เป็น Multiprocessor และ Multicore (เช่น การต่อขยายผ่าน CPU Socket บนเมนบอร์ด) [05:14] รวมถึงอธิบายคุณสมบัติระบบหน่วยความจำร่วม เช่น UMA (Symmetric Multiprocessing: SMP) ที่ทุก CPU เข้าถึง Memory ด้วยความเร็วเท่ากัน [07:27]
+<li>
+กลไกการจัดตารางเวลาของ OS บนระบบ Multiprocessor [01:23:56]: บรรยายความท้าทายของ OS ในการทำ Load Balancing และอธิบายเหตุผลที่ระบบปฏิบัติการจะพยายามหลีกเลี่ยงการย้ายโปรเซสข้ามคอร์ (Process Migration) บนระบบ NUMA Node เนื่องจากมีต้นทุน (Cost) สูง ทั้งในแง่การย้ายข้อมูลในหน่วยความจำและปัญหา Cache Miss ที่ต้องล้างแคชเก่าทิ้งเพื่อเริ่มสร้างข้อมูลแคชใหม่ในคอร์ตัวใหม่ [01:24:34] ก่อนจะนัดหมายขึ้นบทเรียนเรื่อง Multithreading ในครั้งถัดไป [01:25:09]
+</ol>
+</details></li>
+        </ul>
+      </td>
       <td>OSC10: </td>
     </tr>
     <tr>
-      <td>14</td>
-      <td>Lecture 14: 
+      <td>15</td>
+      <td>Lecture 15: แนวคิดเรื่อง Multithreading การบริหารจัดการทรัพยากรร่วมกัน (Resource Sharing) กฎของ Gustafson และแนวคิด Scalability
         <ul>
-          <li>Video: <a href="https://youtu.be/VkBZfT7Jv20">Lecture 14</a></li>
-          <li>Slide: <a href="">Slide </a></li>
+          <li>Video: <a href="https://youtu.be/VkBZfT7Jv20">Lecture 15</a></li>
+          <li>Slide: <a href="Slides/CS222-2026-Slide-08.pdf">Slide 8</a></li>
           <li>
 <details>
 <summary>สรุป</summary>
@@ -381,26 +400,6 @@
 การบริหารจัดการทรัพยากรร่วมกัน (Resource Sharing) [08:41]: บรรยายถึงกลไกและปัญหาเมื่อมีการใช้ทรัพยากรระบบร่วมกัน (Shared Resources) ซึ่งจำเป็นต้องมีระบบการจัดคิว (Queue) และการควบคุมการเข้าถึงที่ยุติธรรม (Fairness) เพื่อไม่ให้เกิดความสับสนหรือข้อมูลขัดแย้งกันในระบบ [09:35]
 <li>
 กฎของ Gustafson และแนวคิด Scalability [01:47:14]: อธิบายการเปลี่ยนมุมมองเชิงทฤษฎีจาก Amdahl's Law มาสู่ Gustafson's Law [01:47:34] ซึ่งส่งผลให้เกิดแนวคิดเรื่อง Scalability ที่เป็นรากฐานสำคัญในการพัฒนาซูเปอร์คอมพิวเตอร์และระบบ Data Center ขนาดใหญ่ที่มีหน่วยประมวลผลทำงานร่วมกันนับแสนตัวในปัจจุบัน [01:48:03] ก่อนจะนัดหมายสรุปเนื้อหา Thread Programming ในวันพุธถัดไป [01:48:34]
-</ol>
-</details></li>
-        </ul>
-      </td>
-      <td>OSC10: </td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>Lecture 15: 
-        <ul>
-          <li>Video: <a href="https://youtu.be/iB_FqYcChPE">Lecture 15</a></li>
-          <li>Slide: <a href="">Slide </a></li>
-          <li>
-<details>
-<summary>สรุป</summary>
-<ol>
-<li>
-วิวัฒนาการของ CPU สู่ระบบหลายตัวประมวลผล [01:54]: เทียบสถาปัตยกรรม CPU จากยุค 90-2000 ที่เน้นเพิ่มความเร็วคอร์เดียวตามกฎของมัวร์ (Moore's Law) [04:03] มาสู่ระบบในปัจจุบันที่เป็น Multiprocessor และ Multicore (เช่น การต่อขยายผ่าน CPU Socket บนเมนบอร์ด) [05:14] รวมถึงอธิบายคุณสมบัติระบบหน่วยความจำร่วม เช่น UMA (Symmetric Multiprocessing: SMP) ที่ทุก CPU เข้าถึง Memory ด้วยความเร็วเท่ากัน [07:27]
-<li>
-กลไกการจัดตารางเวลาของ OS บนระบบ Multiprocessor [01:23:56]: บรรยายความท้าทายของ OS ในการทำ Load Balancing และอธิบายเหตุผลที่ระบบปฏิบัติการจะพยายามหลีกเลี่ยงการย้ายโปรเซสข้ามคอร์ (Process Migration) บนระบบ NUMA Node เนื่องจากมีต้นทุน (Cost) สูง ทั้งในแง่การย้ายข้อมูลในหน่วยความจำและปัญหา Cache Miss ที่ต้องล้างแคชเก่าทิ้งเพื่อเริ่มสร้างข้อมูลแคชใหม่ในคอร์ตัวใหม่ [01:24:34] ก่อนจะนัดหมายขึ้นบทเรียนเรื่อง Multithreading ในครั้งถัดไป [01:25:09]
 </ol>
 </details></li>
         </ul>
