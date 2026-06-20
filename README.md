@@ -472,7 +472,7 @@
       <td>18 - 19</td>
       <td>Lecture 18 - 19: กลไกหน่วยความจำและ Dynamic Linking 
         <ul>
-          <li>Video: <a href="https://youtu.be/KOvJGrTyBbw">Lecture 19</a></li>
+          <li>Video: <a href="https://youtu.be/KOvJGrTyBbw">Lecture 18 - 19</a></li>
           <li>Slide: <a href="Slides/CS222-2026-Slide-10.pdf">Slide </a></li>
           <li>
 <details>
@@ -490,10 +490,10 @@
     </tr>
     <tr>
       <td>20</td>
-      <td>Lecture 20: 
+      <td>Lecture 20: การตรวจสอบ Memory Segment ของโปรแกรม การใช้เทคนิค ASID ในระบบ Paging 
         <ul>
           <li>Video: <a href="https://youtu.be/O6w9CMbrdG8">Lecture 20</a></li>
-          <li>Slide: <a href="">Slide </a></li>
+          <li>Slide: <a href="Slides/CS222-2026-Slide-10.pdf">Slide 10</a></li>
           <li>
 <details>
 <summary>สรุป</summary>
@@ -512,10 +512,10 @@
     </tr>
     <tr>
       <td>21</td>
-      <td>Lecture 21: 
+      <td>Lecture 21: กลไกการแปลแอดเดรสหน่วยความจำ (Address Translation) 
         <ul>
           <li>Video: <a href="https://youtu.be/9i5cLPTNZAI">Lecture 21</a></li>
-          <li>Slide: <a href="">Slide </a></li>
+          <li>Slide: <a href="Slides/CS222-2026-Slide-10.pdf">Slide 10</a></li>
           <li>
 <details>
 <summary>สรุป</summary>
@@ -532,10 +532,10 @@
     </tr>
     <tr>
       <td>22</td>
-      <td>Lecture 22: 
+      <td>Lecture 22: ระบบหน่วยความจำเสมือน (Virtual Memory)  อัลกอริทึมทดแทนหน้าหน่วยความจำ 
         <ul>
           <li>Video: <a href="https://youtu.be/fYXKSLTlVaI">Lecture 22</a></li>
-          <li>Slide: <a href="">Slide </a></li>
+          <li>Slide: <a href="Slides/CS222-2026-Slide-11.pdf">Slide 11</a></li>
           <li>
 <details>
 <summary>สรุป</summary>
@@ -550,18 +550,18 @@
 </details></li>
         </ul>
       </td>
-      <td>OSC10: </td>
+      <td>OSC10 </td>
     </tr>
     <tr>
       <td>23</td>
-      <td>Lecture 23: 
+      <td>Lecture 23: อัลกอริทึมทดแทนหน้าหน่วยความจำ (Page Replacement)    User memory space/Kernel memory space    กลไกความปลอดภัย KPTI (Kernel Page Table Isolation)
         <ul>
           <li>Video: <a href="https://youtu.be/e234Enmu2fg">Lecture 23</a></li>
-          <li>Slide: <a href="">Slide </a></li>
+          <li>Slide: <a href="Slides/CS222-2026-Slide-11.pdf">Slide 11</a></li>
+          <li>Slide: <a href="Slides/CS222-2026-Slide-12.pdf">Slide 12</a></li>
           <li>
 <details>
 <summary>สรุป</summary>
-text
 <ol>
 <li>
 อัลกอริทึมทดแทนหน้าหน่วยความจำ (Page Replacement) [01:25]: อธิบายและต่อยอดกลไกแบบ Second-Chance (Clock) Algorithm [06:15] ไปสู่ Enhanced Second-Chance Algorithm โดยเพิ่มการพิจารณาบิตตรวจสอบอีกหนึ่งตัวคือ Modify Bit (หรือ Dirty Bit) ควบคู่ไปกับ Reference Bit เพื่อใช้แยกประเภทความสำคัญของข้อมูล [04:20] และทำให้ระบบเลือกเหยื่อ (Victim Frame) มาทดแทนได้อย่างฉลาดขึ้นโดยเลี่ยงการเลือกหน้าที่มีการแก้ไขเพื่อลดภาระการเขียนข้อมูลกลับลงดิสก์ [07:02]
@@ -575,10 +575,11 @@ text
     </tr>
     <tr>
       <td>24</td>
-      <td>Lecture 24: 
+      <td>Lecture 24: Dynamic Memory Allocation โครงสร้างการจัดเก็บข้อมูล และสถาปัตยกรรม RAID
         <ul>
           <li>Video: <a href="https://youtu.be/OPsTUdKcgJ4">Lecture 24</a></li>
-          <li>Slide: <a href="">Slide </a></li>
+          <li>Slide: <a href="Slides/CS222-2026-Slide-12.pdf">Slide 12</a></li>
+          <li>Slide: <a href="Slides/CS222-2026-Slide-13.pdf">Slide 13</a></li>
           <li>
 <details>
 <summary>สรุป</summary>
@@ -591,7 +592,7 @@ Dynamic Memory Allocation (Heap & Library API) [02:15]: บรรยายกล
 </details></li>
         </ul>
       </td>
-      <td>OSC10:, OSTEP </td>
+      <td>OSC10, OSTEP </td>
     </tr>
   </tbody>
 </table>
