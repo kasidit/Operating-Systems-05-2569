@@ -197,6 +197,7 @@
         </ul>
         <p><b>Linux Tutorial:</b>
         <ul>
+          <li>Slide: <a href=i"Slides/CS222-2026-Lab-01-Basic-Linux.pdf">Basic Linux Tutorial</a>
           <li>Video: <a href="https://youtu.be/l7Rbavlj1SQ">Linux Tutorial 1</a></li>
           <li>
 <details>
