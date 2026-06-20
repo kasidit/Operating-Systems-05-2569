@@ -597,3 +597,78 @@ Dynamic Memory Allocation (Heap & Library API) [02:15]: บรรยายกล
   </tbody>
 </table>
 </p>
+<p>
+  <b>Assignments:</b> 
+<table>
+  <thead>
+    <tr>
+      <th>ครั้งที่</th>
+      <th>เรื่อง</th>
+      <th>อ้างอิง</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>  
+        <ul>
+          <li>ติดตั้ง Ubuntu Server Linux สองแบบ
+          <li>Description: <a href="Assignments/CS222-Assignment-1.pdf">Assign 1</a></li>
+        </ul>
+      </td>
+      <td>TBA </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>  
+        <ul>
+          <li>ฝึกใช้งาน Ubuntu Linux + ศึกษาด้วยตนเอง
+          <li>Description: <a href="Assignments/CS222-Assignment-2.pdf">Assign 2</a></li>
+        </ul>
+      </td>
+      <td>TBA </td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>  
+        <ul>
+          <li>เรียนรู้ Process
+          <li>Description: <a href="Assignments/CS222-Assignment-3.pdf">Assign 3</a></li>
+        </ul>
+      </td>
+      <td>TBA </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>  
+        <ul>
+          <li>เรียนรู้ Pthread Programming Part 1
+          <li>Description: <a href="Assignments/CS222-Assignment-4.pdf">Assign 4</a></li>
+        </ul>
+      </td>
+      <td>TBA </td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>  
+        <ul>
+          <li>เรียนรู้ pthread part 2 (Synchronization)
+          <li>Description: <a href="Assignments/CS222-Assignment-5.pdf">Assign 5</a></li>
+        </ul>
+      </td>
+      <td>TBA </td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>  
+        <ul>
+          <li>เรียนรู้ Dynamic Memory Allocation และทบทวน RAID
+          <li>Description: <a href="Assignments/CS222-Assignment-6.pdf">Assign 6</a></li>
+        </ul>
+      </td>
+      <td>TBA </td>
+    </tr>
+  </tbody>
+</table>
+</p>
+  
