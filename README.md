@@ -137,7 +137,7 @@
     </tr>
     <tr>
       <td>6</td>
-      <td>Lecture 6: โครงสร้างและลำดับชั้นของหน่วยความจำ    แนวคิดการทำงานแบบ Multiprogramming [
+      <td>Lecture 6: โครงสร้างและลำดับชั้นของหน่วยความจำ    แนวคิดการทำงานแบบ Multiprogramming 
         <ul>
           <li>Video: <a href="https://youtu.be/W8glao6cvmo">Lecture 6</a></li>
           <li>Slide: <a href="Slides/CS222-2026-Slide-03.pdf">Slide 3</a></li>
@@ -404,14 +404,14 @@
 </details></li>
         </ul>
       </td>
-      <td>OSC10: </td>
+      <td>OSC10, APUE, OSTEP </td>
     </tr>
     <tr>
       <td>16</td>
-      <td>Lecture 16: 
+      <td>Lecture 16: การคำนวณประสิทธิภาพด้วย Amdahl's Law  ธรรมชาติของ Concurrent Programming
         <ul>
           <li>Video: <a href="https://youtu.be/h4HysTgfx0w">Lecture 16</a></li>
-          <li>Slide: <a href="">Slide </a></li>
+          <li>Slide: <a href="Slides/CS222-2026-Slide-08.pdf">Slide 8</a></li>
           <li>
 <details>
 <summary>สรุป</summary>
@@ -424,14 +424,14 @@
 </details></li>
         </ul>
       </td>
-      <td>OSC10: </td>
+      <td>OSC10 </td>
     </tr>
     <tr>
       <td>16.5</td>
-      <td>Lecture 16.5: 
+      <td>Lecture 16.5: แนวคิดเรื่อง Scalability ของระบบคอมพิวเตอร์ สรุปภาพรวมพื้นฐานสำคัญของระบบ Multicore และการเขียนโปรแกรมแบบ Multithreading  
         <ul>
           <li>Video: <a href="https://youtu.be/t2ZuvUxcjWE">Lecture 16.5</a></li>
-          <li>Slide: <a href="">Slide </a></li>
+          <li>Slide: <a href="Slides/CS222-2026-Slide-08.pdf">Slide 8</a></li>
           <li>
 <details>
 <summary>สรุป</summary>
@@ -444,14 +444,14 @@
 </details></li>
         </ul>
       </td>
-      <td>OSC10:, OSTEP </td>
+      <td>OSC10, OSTEP </td>
     </tr>
     <tr>
       <td>17</td>
-      <td>Lecture 17: 
+      <td>Lecture 17: การต่อยอดเนื้อหาเรื่อง Synchronization แนวคิดเรื่อง Critical Section และกลไกควบคุมการเข้าถึง เครื่องมือทำ Thread Synchronization ในระบบ Linux 
         <ul>
           <li>Video: <a href="https://youtu.be/w1TyiPafU2w">Lecture 17</a></li>
-          <li>Slide: <a href="">Slide </a></li>
+          <li>Slide: <a href="Slides/CS222-2026-Slide-09.pdf">Slide 9</a></li>
           <li>
 <details>
 <summary>สรุป</summary>
@@ -461,41 +461,19 @@
 <li>
 แนวคิดเรื่อง Critical Section และกลไกควบคุมการเข้าถึง [07:09]: อธิบายแนวคิด Critical Section (พื้นที่วิกฤต) โดยเปรียบเทียบเชิงอุปมาอุปไมยในชีวิตประจำวัน เช่น ห้องที่เข้าใช้ได้ทีละคนและต้องล็อกกุญแจ (Mutex Lock) [08:41] หรือการจัดการคิวของลูกค้าในร้านอาหาร [09:58] เพื่อแสดงถึงกระบวนการป้องกันไม่ให้หลายเทรดเข้าถึงทรัพยากรร่วมกันในเวลาเดียวกัน
 <li>
-เครื่องมือและเบื้องหลังการ Implementation ในระบบ Linux [01:53:31]: แนะนำเครื่องมือระดับสูงอย่าง pthread_barrier (กลไกการรอให้ทุกเทรดทำงานมาถึงจุดที่กำหนดพร้อมกันก่อนจะปล่อยให้ไปต่อ) [01:53:36] และอธิบายสถาปัตยกรรมเบื้องหลังการทำงานของ Mutex ใน Linux เช่น กลไก Futex, Spin Lock, และคำสั่งระดับฮาร์ดแวร์ Test-and-Set [01:54:36] ก่อนที่จะประกาศจบบทเรียน Synchronization เพื่อเตรียมขึ้นเนื้อหา Memory Management ในคาบหน้า [01:54:51]
+เครื่องมือทำ Thread Synchronization ในระบบ Linux [01:53:31]: แนะนำเครื่องมือระดับสูงอย่าง pthread_barrier (กลไกการรอให้ทุกเทรดทำงานมาถึงจุดที่กำหนดพร้อมกันก่อนจะปล่อยให้ไปต่อ) [01:53:36] และอธิบายสถาปัตยกรรมเบื้องหลังการทำงานของ Mutex ใน Linux เช่น กลไก Futex, Spin Lock, และคำสั่งระดับฮาร์ดแวร์ Test-and-Set [01:54:36] ก่อนที่จะประกาศจบบทเรียน Synchronization เพื่อเตรียมขึ้นเนื้อหา Memory Management ในคาบหน้า [01:54:51]
 </ol>
 </details></li>
         </ul>
       </td>
-      <td>OSC10:, OSTEP </td>
+      <td>OSC10:, APUE, OSTEP </td>
     </tr>
     <tr>
-      <td>18</td>
-      <td>Lecture 18: 
-        <ul>
-          <li>Video: <a href="https://youtu.be/MXjGAmLGiVo">Lecture 18</a></li>
-          <li>Slide: <a href="">Slide </a></li>
-          <li>
-<details>
-<summary>สรุป</summary>
-<ol>
-<li>
-การสั่งงานมอบหมายใหม่ [00:25]: ชี้แจงเกี่ยวกับ Assignment แรกในเรื่อง Thread ที่พึ่งมอบหมายให้ในระบบ พร้อมเกริ่นว่าจะมี Assignment ถัดไปตามมาในเรื่อง Thread Synchronization และ Performance Evaluation [00:47]
-<li>
-การเริ่มต้นบทเรียนเรื่อง Memory Management [01:01]: เริ่มต้นหัวข้อใหม่เกี่ยวกับการบริหารจัดการหน่วยความจำและการเข้าถึงหน่วยความจำ โดยเริ่มปูพื้นฐานจากฝั่งฮาร์ดแวร์ [01:18]
-<li>
-สถาปัตยกรรม RAM ในระดับฮาร์ดแวร์ [01:34]: อธิบายถึงความแตกต่างของชิปหน่วยความจำในระบบคอมพิวเตอร์ทั่วไป (เช่น โน้ตบุ๊ก, PC, สมาร์ตโฟน) [01:54] เปรียบเทียบกับหน่วยความจำประเภท ECC Memory (Error-Correcting Code Memory) ที่นิยมใช้บนเครื่อง Server เพื่อความเสถียรและการตรวจสอบความถูกต้องของข้อมูล [02:33] ก่อนที่ระบบบันทึกการสอนจะสิ้นสุดลงในช่วงสั้นๆ [08:49]
-</ol>
-</details></li>
-        </ul>
-      </td>
-      <td>OSC10: </td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>Lecture 19: 
+      <td>18 - 19</td>
+      <td>Lecture 18 - 19: กลไกหน่วยความจำและ Dynamic Linking 
         <ul>
           <li>Video: <a href="https://youtu.be/KOvJGrTyBbw">Lecture 19</a></li>
-          <li>Slide: <a href="">Slide </a></li>
+          <li>Slide: <a href="Slides/CS222-2026-Slide-10.pdf">Slide </a></li>
           <li>
 <details>
 <summary>สรุป</summary>
@@ -508,7 +486,7 @@
 </details></li>
         </ul>
       </td>
-      <td>OSC10: </td>
+      <td>OSC10 </td>
     </tr>
     <tr>
       <td>20</td>
