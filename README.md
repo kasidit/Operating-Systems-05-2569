@@ -1,14 +1,29 @@
 # Operating-Systems-05-2569
 <p>
-เนื้อหาวิชา Operating Systems สอนที่สาขาวิชาวิทยาการคอมพิวเตอร์ คณะวิทยาศาสตร์และเทคโนโลยี มหาวิทยาลัยธรรมศาสตร์ ภาค 2 ปีการศึกษา 2568 สอนจบเมื่อเดือน พฤษภาคม 2569 
+เนื้อหาวิชา Operating Systems สอนที่
+<a href="https://cs.sci.tu.ac.th/">สาขาวิชาวิทยาการคอมพิวเตอร์</a> 
+<a href=""https://sci.tu.ac.th/>คณะวิทยาศาสตร์และเทคโนโลยี</a> 
+<a href=""https://tu.ac.th/>มหาวิทยาลัยธรรมศาสตร์</a> 
+ภาค 2 ปีการศึกษา 2568 สอนจบเมื่อเดือน พฤษภาคม 2569 
 </p>
 <p>
   <b>Textbooks:</b> 
   <ol>
-    <li><b>OSC10:</b> <a href="https://archive.org/details/silberschatz-operating-system-concepts-10e-2018">Operating System Concepts, 10th Edition</a>โดย 1)	Avi Silberschatz, Peter B. Galvin and Greg Gagne สามารถดาวน์โหลดได้ฟรีจาก The Internet Archive.
+    <li><b>OSC10:</b> <a href="https://archive.org/details/silberschatz-operating-system-concepts-10e-2018">Operating System Concepts, 10th Edition</a>โดย  
+<a href="https://codex.cs.yale.edu/avi/">Avi Silberschatzi</a>, 
+<a href="https://dl.acm.org/profile/81100611528">Peter B. Galvin</a>, 
+<a href="https://greggagne.github.io/">Greg Gagne</a> 
+สามารถดาวน์โหลดได้ฟรีจาก The Internet Archive.
 </li>
-    <li><b>OSTEP:</b><a href="https://pages.cs.wisc.edu/~remzi/OSTEP/">Operating Systems: Three easy pieces (OSTEP)</a> เป็นหนังสือ Free Text book ที่เขียนขึ้นโดย Prof. Ramzi H. Arpaci-Dusseau และ Prof. Andrea C. Arpaci-Dusseau จาก University of Wisconsin Madison</li>
-    <li><b>APUE:</b><a href="https://www.amazon.com/dp/0321637739?lv=shuf&channelId=500&plpRedirect=mhFallback">Advanced Programming in the UNIX Environment, 3rd Edition</a> โดย  W. Stevens, Stephen Ragoหาซื้อ Kindle Edition ได้ที่ Amazon 
+    <li><b>OSTEP:</b><a href="https://pages.cs.wisc.edu/~remzi/OSTEP/">Operating Systems: Three easy pieces (OSTEP)</a> เป็นหนังสือ Free Text book ที่เขียนโดย 
+<a href="https://pages.cs.wisc.edu/~remzi/">Prof. Ramzi H. Arpaci-Dusseau</a> 
+และ 
+<a href="https://pages.cs.wisc.edu/~dusseau/">Prof. Andrea C. Arpaci-Dusseau 
+จาก University of Wisconsin Madison</li>
+    <li><b>APUE:</b><a href="https://www.amazon.com/dp/0321637739?lv=shuf&channelId=500&plpRedirect=mhFallback">Advanced Programming in the UNIX Environment, 3rd Edition</a> โดย  
+<a href="https://en.wikipedia.org/wiki/W._Richard_Stevens">W. Stevens</a>, 
+<a href="https://www.informit.com/authors/bio/9d0900f8-cd4c-4976-8949-62c1e58512f6">Stephen Rago</a>
+หาซื้อ Kindle Edition ได้ที่ Amazon 
   </ol>
 </p>
 <p>
