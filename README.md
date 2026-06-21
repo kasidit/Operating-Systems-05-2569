@@ -1,4 +1,4 @@
-# Operating-Systems-05-2569
+# เรียนรู้ วิชาระบบปฏิบัติการ (Operating-Systems)
 <p>
 เนื้อหาวิชา Operating Systems สอนที่
 <a href="https://cs.sci.tu.ac.th/">สาขาวิชาวิทยาการคอมพิวเตอร์</a> 
